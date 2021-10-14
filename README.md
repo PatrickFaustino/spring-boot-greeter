@@ -1,2 +1,2 @@
-# spring-boot-greet
+# spring-boot-greeter
 Demo project for Custom Spring Boot Starter
