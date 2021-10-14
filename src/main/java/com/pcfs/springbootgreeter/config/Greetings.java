@@ -1,4 +1,4 @@
-package com.example.springbootgreeter.config;
+package com.pcfs.springbootgreeter.config;
 
 import lombok.Getter;
 import lombok.Setter;

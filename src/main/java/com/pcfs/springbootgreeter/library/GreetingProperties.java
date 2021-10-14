@@ -1,4 +1,4 @@
-package com.example.springbootgreeter.library;
+package com.pcfs.springbootgreeter.library;
 
 import java.util.Properties;
 

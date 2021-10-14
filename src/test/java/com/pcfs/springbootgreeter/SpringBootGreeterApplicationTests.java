@@ -1,4 +1,4 @@
-package com.example.springbootgreeter;
+package com.pcfs.springbootgreeter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

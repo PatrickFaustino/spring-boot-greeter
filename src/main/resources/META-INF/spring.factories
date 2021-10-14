@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.example.springbootgreeter.config.GreetingAutoConfiguration
+com.pcfs.springbootgreeter.config.GreetingAutoConfiguration

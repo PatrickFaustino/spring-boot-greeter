@@ -1,10 +1,10 @@
-package com.example.springbootgreeter.library;
+package com.pcfs.springbootgreeter.library;
 
 import lombok.AllArgsConstructor;
 
 import java.time.LocalDateTime;
 
-import static com.example.springbootgreeter.library.GreeterParams.*;
+import static com.pcfs.springbootgreeter.library.GreeterParams.*;
 
 @AllArgsConstructor
 public class Greeter {

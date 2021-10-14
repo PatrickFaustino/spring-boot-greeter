@@ -1,7 +1,7 @@
-package com.example.springbootgreeter.config;
+package com.pcfs.springbootgreeter.config;
 
-import com.example.springbootgreeter.library.Greeter;
-import com.example.springbootgreeter.library.GreetingProperties;
+import com.pcfs.springbootgreeter.library.Greeter;
+import com.pcfs.springbootgreeter.library.GreetingProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
@@ -9,7 +9,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import static com.example.springbootgreeter.library.GreeterParams.*;
+import static com.pcfs.springbootgreeter.library.GreeterParams.*;
 
 @Configuration
 @ConditionalOnClass(Greeter.class)
